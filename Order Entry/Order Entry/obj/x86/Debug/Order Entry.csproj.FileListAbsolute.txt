@@ -1,0 +1,15 @@
+C:\Users\student\Documents\Order Entry\Order Entry\obj\x86\Debug\Order_Entry.Form1.resources
+C:\Users\student\Documents\Order Entry\Order Entry\obj\x86\Debug\Order_Entry.Properties.Resources.resources
+C:\Users\student\Documents\Order Entry\Order Entry\obj\x86\Debug\Order Entry.csproj.GenerateResource.Cache
+C:\Users\student\Documents\Order Entry\Order Entry\bin\Debug\Order Entry.exe
+C:\Users\student\Documents\Order Entry\Order Entry\bin\Debug\Order Entry.pdb
+C:\Users\student\Documents\Order Entry\Order Entry\obj\x86\Debug\Order Entry.exe
+C:\Users\student\Documents\Order Entry\Order Entry\obj\x86\Debug\Order Entry.pdb
+E:\Order Entry\Order Entry\obj\x86\Debug\Order Entry.exe
+E:\Order Entry\Order Entry\obj\x86\Debug\Order Entry.pdb
+E:\Order Entry\Order Entry\bin\Debug\Order Entry.exe
+E:\Order Entry\Order Entry\bin\Debug\Order Entry.pdb
+E:\Order Entry\Order Entry\obj\x86\Debug\Order_Entry.Form1.resources
+E:\Order Entry\Order Entry\obj\x86\Debug\Order_Entry.Properties.Resources.resources
+E:\Order Entry\Order Entry\obj\x86\Debug\Order Entry.csproj.GenerateResource.Cache
+E:\Order Entry\Order Entry\obj\x86\Debug\Order Entry.csprojResolveAssemblyReference.cache

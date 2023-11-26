@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order Entry", "Order Entry\Order Entry.csproj", "{54138769-3E54-4C3A-93F7-338792548B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54138769-3E54-4C3A-93F7-338792548B47}.Debug|x86.ActiveCfg = Debug|x86
+		{54138769-3E54-4C3A-93F7-338792548B47}.Debug|x86.Build.0 = Debug|x86
+		{54138769-3E54-4C3A-93F7-338792548B47}.Release|x86.ActiveCfg = Release|x86
+		{54138769-3E54-4C3A-93F7-338792548B47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
